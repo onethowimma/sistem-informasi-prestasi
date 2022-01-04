@@ -1,6 +1,3 @@
-# BWAStore HTML Starter Template
-Starter Template ini dapat anda gunakan untuk memulai project pada video tutorial [BWASTORE](https://bit.ly/BWASTORE)
-
 ## Lisensi
 
 MIT License
